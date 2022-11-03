@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2b4cb0c-1e2e-4e19-b654-772c789bfd45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day4/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day5/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day5/Motorbike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/Motorbike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,20 +41,12 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Motorbike">
-    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day5.Car" />
-      <module name="JavaMarathon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Motorbike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day5.Motorbike" />
       <module name="JavaMarathon" />
@@ -70,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day4.Task4" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day6.Test" />
       <module name="JavaMarathon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day4.*" />
+          <option name="PATTERN" value="day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day4.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day4.Task2" />
+    <configuration name="TestAirplane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day6.TestAirplane" />
       <module name="JavaMarathon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day4.*" />
+          <option name="PATTERN" value="day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +86,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day4.Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day4.Task3" />
+    <configuration name="day6.Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day6.Car" />
       <module name="JavaMarathon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day4.*" />
+          <option name="PATTERN" value="day6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day6.Motorbike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day6.Motorbike" />
+      <module name="JavaMarathon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestAirplane" />
+        <item itemvalue="Application.day6.Car" />
+        <item itemvalue="Application.day6.Motorbike" />
         <item itemvalue="Application.Motorbike" />
-        <item itemvalue="Application.Car" />
-        <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.day4.Task3" />
-        <item itemvalue="Application.day4.Task2" />
       </list>
     </recent_temporary>
   </component>
